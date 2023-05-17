@@ -1,3 +1,5 @@
+# Сделано RedFoxMain
+# Github https://github.com/RedFoxMain
 import re
 
 def tokinizer(expression):
